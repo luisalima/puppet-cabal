@@ -12,3 +12,4 @@ include cabal
 
 * boxen
 * homebrew
+* gcc
